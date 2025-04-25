@@ -48,9 +48,13 @@ This tool provides real-time in-game modifications for various roles, enhancing 
 
 ---
 
+
+![Among Us Cheat UHQ Preview](cheat.png)
+
+
+---
+
 ## ⚠️ Disclaimer
 This tool is for **educational purposes only**.  
 Do not use it in public lobbies or online games where cheating is prohibited.  
 You are fully responsible for how you use this software.
-
-![Among Us Cheat UHQ Preview](cheat.png)
